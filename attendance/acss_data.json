@@ -1,0 +1,5105 @@
+{
+"students": [
+{
+"student_no": "930113",
+"alt_id": null,
+"name": "Abiera, Allyna Rchene Aquino",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930611",
+"alt_id": null,
+"name": "Abilis, Jasper Bonggo",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922976",
+"alt_id": null,
+"name": "Acapulco, Shaowen Reign Flores",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926489",
+"alt_id": null,
+"name": "Aclan, Karl Melvin Andrei Vito",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "912695",
+"alt_id": null,
+"name": "Adduk, Nurhaisah Sahibil",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930382",
+"alt_id": null,
+"name": "Adlaon, Gian Ley Belarmino",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930856",
+"alt_id": null,
+"name": "Alba, Jc Sapphire Marie Bacsarpa",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923806",
+"alt_id": "2024-0090-2",
+"name": "Albania, Erick John Paquibulan",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "922891",
+"alt_id": null,
+"name": "Alberca, Prince Jerome Sato",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930616",
+"alt_id": null,
+"name": "Alburo, Lorence Nacario",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926687",
+"alt_id": null,
+"name": "Alcebar, Ceazar Jairus Diez",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920930",
+"alt_id": null,
+"name": "Alcover, Gem Joush Esperat",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "919724",
+"alt_id": null,
+"name": "Alebin, Reyz Ivonne Tubalado",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930210",
+"alt_id": null,
+"name": "Alejo, Mark Lawrence Alejo",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "921222",
+"alt_id": "2023-0131-1",
+"name": "Algones, Mark Anthony Lovitos",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "880908",
+"alt_id": null,
+"name": "Alisoso, Allen Kenneth Gido",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "924007",
+"alt_id": null,
+"name": "Allawan, Althea Dwynn Rich Agravante",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "917898",
+"alt_id": null,
+"name": "Amarillo, James Clert Garcia",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "929777",
+"alt_id": null,
+"name": "Amigo, Hilario Iii Avancena",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "921490",
+"alt_id": "2019-0698-8",
+"name": "Amil, Carl Vincent Sagaray",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926180",
+"alt_id": null,
+"name": "Amisola, Jann Miguel",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930144",
+"alt_id": null,
+"name": "Anunciado, Brent Jazer Delos Reyes",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929291",
+"alt_id": null,
+"name": "Apolonio, Joshua Estrella",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920104",
+"alt_id": null,
+"name": "Aquino, Kent Shandell Oyao",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "884713",
+"alt_id": null,
+"name": "Arellano, Nikko Soledad",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926301",
+"alt_id": null,
+"name": "Arocha, Earldon Bhrylle Agayan",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "923068",
+"alt_id": null,
+"name": "Artiaga, Keith Reinhart Sapurco",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920668",
+"alt_id": null,
+"name": "Artiaga, Luziel Muit",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "921719",
+"alt_id": "2023-0149-4",
+"name": "Asani, Harris Catamora",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "930674",
+"alt_id": null,
+"name": "Atilano, Harry Desmond Aberilla",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "909845",
+"alt_id": null,
+"name": "Bacus, Pritz Joven Suan",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930474",
+"alt_id": null,
+"name": "Balili, Paolo Yeshua",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923712",
+"alt_id": "2024-0199-5",
+"name": "Balubal, Jeyson .",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "922937",
+"alt_id": null,
+"name": "Bangay, Lemuel Adrian Escalera",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "921926",
+"alt_id": null,
+"name": "Bangcailan, Shayne Noelle Eudela",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926570",
+"alt_id": null,
+"name": "Banogbanog, Rainforest Renoblas",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "923678",
+"alt_id": null,
+"name": "Baritua, Meljhon Jade Cagalitan",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920854",
+"alt_id": null,
+"name": "Barredo, Rodan Jr. Silva",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "930601",
+"alt_id": null,
+"name": "Bartolome, Raijin Bartolome",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920557",
+"alt_id": null,
+"name": "Batucan, Mel Ford Pague",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "923459",
+"alt_id": "2024-0094-1",
+"name": "Bendijo, Ashley Claire Gravino",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923174",
+"alt_id": null,
+"name": "Bendol, Fynn Louis Pilapil",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929306",
+"alt_id": null,
+"name": "Berdon, Liane Janine Basalo",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930251",
+"alt_id": null,
+"name": "Bermudez, Derick Tadol",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "924459",
+"alt_id": "2024-0162-4",
+"name": "Borlado, Pauleen Ashley Merced Sabayle",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923779",
+"alt_id": "2024-0096-4",
+"name": "Borlaza, Christian Tuazon",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923780",
+"alt_id": "2024-0096-5",
+"name": "Borlaza, Christopher Tuazon",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "922727",
+"alt_id": null,
+"name": "Brabat, Vinz Domingo",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929284",
+"alt_id": null,
+"name": "Buragay, Diana Lynn Fabroa",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "921648",
+"alt_id": null,
+"name": "Cabantug, Niptaly Asma",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "923016",
+"alt_id": null,
+"name": "Cabayao, Sean Andrei Apiag",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "910857",
+"alt_id": "2021-1259-0",
+"name": "Caba\u00f1og, Carlcliffe Arnold Mantos",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "924608",
+"alt_id": null,
+"name": "Cabiloque, Cape Lourence Sibal",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "921634",
+"alt_id": null,
+"name": "Cahimtong, Cherry Jane Antiola",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "919932",
+"alt_id": null,
+"name": "Calamba, Rodayne Wade Gemperoso",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920258",
+"alt_id": null,
+"name": "Calero, Leurainne Mae Sanoy",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920842",
+"alt_id": null,
+"name": "Calixto, Rovi Nino Yangyang",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "916705",
+"alt_id": null,
+"name": "Callao, Demson",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920746",
+"alt_id": null,
+"name": "Camanzo, Preston Dane Pagalan",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "880366",
+"alt_id": null,
+"name": "Cammayo, Joeseff Andre Pradel",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "880904",
+"alt_id": null,
+"name": "Cano, Francis Stephen L.",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "920476",
+"alt_id": "2023-0040-6",
+"name": "Canogcog, Jayke Cabalquinto",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "930437",
+"alt_id": null,
+"name": "Canoy, Ashlyje Forones",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920802",
+"alt_id": null,
+"name": "Canoy, Ivan Kent",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "925018",
+"alt_id": null,
+"name": "Cantos, Argie Pimentel",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930043",
+"alt_id": null,
+"name": "Carajay, Jarrold Jay Jamis",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929844",
+"alt_id": null,
+"name": "Cataag, Clent Arvin Rojo",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922911",
+"alt_id": null,
+"name": "Cayacapan, Celine Rose Diana",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922694",
+"alt_id": null,
+"name": "Centina, Chris John Ang",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "880590",
+"alt_id": null,
+"name": "Chavez, Malyka Enyahs",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923434",
+"alt_id": null,
+"name": "Chikamori, Tadashi Cordero",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923791",
+"alt_id": "2024-0102-4",
+"name": "Cirunay, Janpaul Gemilga",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "930384",
+"alt_id": null,
+"name": "Cobol, Apple Mae Aniong",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "924274",
+"alt_id": null,
+"name": "Colinares, Archie Ayop",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "927118",
+"alt_id": null,
+"name": "Compa\u00f1ero, Fidel Bon Cesar Mabalot",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "886910",
+"alt_id": null,
+"name": "Cortes, Cesar Ian Hefervez",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920178",
+"alt_id": null,
+"name": "Cortes, John Zedric Salebat",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "917620",
+"alt_id": null,
+"name": "Cossid, Jose Joaquin",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926640",
+"alt_id": null,
+"name": "Cruto, Kevin Kichiro Rojas",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920537",
+"alt_id": null,
+"name": "Cuaresma, Cherry Lou Sabanal",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "930098",
+"alt_id": null,
+"name": "Cubio, Vince Edward Sueno",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "880256",
+"alt_id": "2014-1232-3",
+"name": "Cubita, Carl Dominick Buasen",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "929566",
+"alt_id": null,
+"name": "Culano, Sandrea Dulay",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "908990",
+"alt_id": null,
+"name": "Custodio, Radzgie Valdez",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "917825",
+"alt_id": "2022-0070-3",
+"name": "Dacalos, Ginn Russel Gevera",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "929342",
+"alt_id": "988342",
+"name": "Dacera, Knox Leon Concha",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "924607",
+"alt_id": null,
+"name": "Dahan, Janoelv Addy",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923189",
+"alt_id": null,
+"name": "Dalagonan, Arvin James Sarabillo",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "908665",
+"alt_id": null,
+"name": "Dancel, Vincent Ric Heruela",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "887765",
+"alt_id": null,
+"name": "Davo, Michel Angelo Legaspi",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "883835",
+"alt_id": "2018-0693-6",
+"name": "Dayaday, John Mark Fernandez",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "920752",
+"alt_id": null,
+"name": "Dayday, Cyrell Claire Borlaza",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "930133",
+"alt_id": null,
+"name": "Daylubo, Melcris Gantuangco",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923242",
+"alt_id": null,
+"name": "Da\u00f1o, Alyn Rose Bacus",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "881096",
+"alt_id": null,
+"name": "De Lumen, Charlie Carta",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "929839",
+"alt_id": null,
+"name": "Decasa, Negil Drew Arpafo",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "886969",
+"alt_id": null,
+"name": "Dela Calzada, Alfred Job Uy",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "926692",
+"alt_id": null,
+"name": "Dela Cruz, Ken Mark Ipil",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920576",
+"alt_id": "2023-0151-6",
+"name": "Dela Cruz, Romer John Barowis",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "924359",
+"alt_id": null,
+"name": "Dela Torre, Clint John Bontilao",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923882",
+"alt_id": null,
+"name": "Delos Cientos, Simon Heart Edianon",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923214",
+"alt_id": null,
+"name": "Delos Reyes, Michael Phelps Aldamia",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930496",
+"alt_id": null,
+"name": "Delos Santos, Rei Micko Dote",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "921684",
+"alt_id": null,
+"name": "Deloy, Jay Lord Edianon",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "886794",
+"alt_id": null,
+"name": "Democrito, Jr., Reinhard Maghanoy",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "909936",
+"alt_id": null,
+"name": "Diaz, Jorex Alejandro",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "927390",
+"alt_id": null,
+"name": "Dichoson, Marc Angelo Tambis",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "929303",
+"alt_id": null,
+"name": "Digamon, Josh Xandre Alboroto",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920096",
+"alt_id": "2023-0164-0",
+"name": "Digap, Orlian Banate",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "917897",
+"alt_id": null,
+"name": "Dimas, Claire Joy Ferolin",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929270",
+"alt_id": null,
+"name": "Dimas, Khiella Jane Sarno",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920027",
+"alt_id": null,
+"name": "Dublan, Aljon Diama",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930447",
+"alt_id": null,
+"name": "Dumasig, Lorenz Arde\u00f1a",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926513",
+"alt_id": null,
+"name": "Dunting, Kylle Ivan Endino",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "926327",
+"alt_id": null,
+"name": "Edoloverio, Axl Rich Responso",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "924600",
+"alt_id": null,
+"name": "Eduarte, Pacholo Roie Palmares",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "922759",
+"alt_id": null,
+"name": "Egos, Gian Carlo Lunas",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "908222",
+"alt_id": null,
+"name": "Eltagonde, Juliana Bless Luna",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "909201",
+"alt_id": null,
+"name": "Emberador, Vince Via",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926668",
+"alt_id": null,
+"name": "Ephan, Joberto Geverola",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "927018",
+"alt_id": null,
+"name": "Ero, Edzel Kim Sordilla",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930853",
+"alt_id": null,
+"name": "Espinosa, Borg Baysac",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "922909",
+"alt_id": null,
+"name": "Espinosa, William Brad Neri",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920500",
+"alt_id": null,
+"name": "Espiritu, Danielle Kylle Gorospe",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "921752",
+"alt_id": null,
+"name": "Estrada, Adrian Castro",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "929429",
+"alt_id": null,
+"name": "Estrada, Criselle Kallei Garnica",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "883876",
+"alt_id": null,
+"name": "Famoso, Karlo Omandam",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "926601",
+"alt_id": null,
+"name": "Fernandez, Kisha-Rianne Cuello",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "924407",
+"alt_id": null,
+"name": "Ferrer, Greg Anthony Gevera",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "921561",
+"alt_id": null,
+"name": "Fiel, Carl Jasphyr Lloyd Ayanan",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "923185",
+"alt_id": null,
+"name": "Fiel, King James Handugan",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926786",
+"alt_id": null,
+"name": "Gacang, Princess Hannah Bella Vios",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "909202",
+"alt_id": null,
+"name": "Galaraga, Jeferson Granada",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "930359",
+"alt_id": null,
+"name": "Galla, Johnwhane Sancover",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "906778",
+"alt_id": null,
+"name": "Galo, Eduard James Gorgonio",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920645",
+"alt_id": null,
+"name": "Gemilga, James Ray Colinares",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "920660",
+"alt_id": null,
+"name": "Geollegue, Carl Joseph Juano",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "923028",
+"alt_id": null,
+"name": "Gerasmio, Adian Emmanuel Dela Cruz",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929421",
+"alt_id": null,
+"name": "Geromo, Espherijhun Mahinay",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "883292",
+"alt_id": null,
+"name": "Gesoro, Christenne Joy Tizon",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "884105",
+"alt_id": null,
+"name": "Gesoro, Princess Kylle Tizon",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "923565",
+"alt_id": "2024-0078-0",
+"name": "Getalla, Andrei Barsalote",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "927347",
+"alt_id": null,
+"name": "Gomez, Steven Evangelisan",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "929963",
+"alt_id": null,
+"name": "Gonzales, Adonis Jr. Llameg",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930204",
+"alt_id": null,
+"name": "Gudez, Christian Luis Alcasid",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930851",
+"alt_id": null,
+"name": "Guimbal, Ryzha Mhel Galarian",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930351",
+"alt_id": null,
+"name": "Gumapac, Stephane Ashley Balderas",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930592",
+"alt_id": null,
+"name": "Guya, Shanley Mae Aranquez",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "912380",
+"alt_id": null,
+"name": "Herana, Princess Mia Sevillano",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "920637",
+"alt_id": null,
+"name": "Herda, Laurence Jose Valendez",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "922907",
+"alt_id": null,
+"name": "Impron, Christian Jay Camposano",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930452",
+"alt_id": null,
+"name": "Intervencion, Ryle Mariano",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922670",
+"alt_id": null,
+"name": "Jakosalem, Clarizze Marie Wenceslao",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930668",
+"alt_id": null,
+"name": "Jamolin, Hanzo John Oreal",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920584",
+"alt_id": null,
+"name": "Javillo, Daniel Robles",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "924009",
+"alt_id": "2024-0136-5",
+"name": "Jayag, Clifford Jann Montes",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "883857",
+"alt_id": null,
+"name": "Jimenea, Mycha Shem Castillano",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "908428",
+"alt_id": null,
+"name": "Jorgio, Mer Andreas Salvado",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "920013",
+"alt_id": null,
+"name": "Juarez, Lee Eduard Polancos",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "922174",
+"alt_id": null,
+"name": "Jumawan, John Marco Onofre",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926187",
+"alt_id": null,
+"name": "Juverillo, Nathaniel Diana",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "929296",
+"alt_id": null,
+"name": "Labastida, Danielle Clark Nuyad",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "916742",
+"alt_id": null,
+"name": "Laidan, Jay Calooy",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929422",
+"alt_id": null,
+"name": "Langomes, Nnelgs Alere Lumawag",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929910",
+"alt_id": null,
+"name": "Larobis, Andy Shyrine Ehong",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "908991",
+"alt_id": null,
+"name": "Lascu\u00f1a, Daisy Mae Crujedo",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "929533",
+"alt_id": null,
+"name": "Lastimoso, Keneth Ian Duot",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923541",
+"alt_id": "2024-0067-4",
+"name": "Lauda, Ricardo Jr. Panginahog",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923451",
+"alt_id": "2024-0199-6",
+"name": "Lawas, Lelius Ebol",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "910157",
+"alt_id": null,
+"name": "Lescano, Vonne Andre Apostol",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "880732",
+"alt_id": null,
+"name": "Libre, Karl Ceasar Eyan",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930227",
+"alt_id": null,
+"name": "Lintua, Cristan Moda",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926351",
+"alt_id": null,
+"name": "Lipae, Ahmed Bin Rashid Salih",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "924646",
+"alt_id": null,
+"name": "Lisondra, Herald John Gulay",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "930597",
+"alt_id": null,
+"name": "Llaban, Prince Daive",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923991",
+"alt_id": null,
+"name": "Mabangis, Princess Althea Sot",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "926661",
+"alt_id": null,
+"name": "Maca, Irene Shane Lumay",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "919717",
+"alt_id": null,
+"name": "Mancera, Eloise Joy Cabanilla",
+"course": "BLIS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "929967",
+"alt_id": null,
+"name": "Mandalupe, Brent David Bucog",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "886845",
+"alt_id": null,
+"name": "Mapa, Jerico Dingal",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "909184",
+"alt_id": null,
+"name": "Marata, Mc Kenly Gabin",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "880688",
+"alt_id": null,
+"name": "Mascardo, Sean Gabriel",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "880135",
+"alt_id": null,
+"name": "Mascardo, Vincent Paul Dennis, I I Serva\u00f1ez",
+"course": "BSIT",
+"year": 5,
+"section": ""
+},
+{
+"student_no": "920937",
+"alt_id": null,
+"name": "Mascardo, Yessha Eudora",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "909593",
+"alt_id": "2021-1185-2",
+"name": "Matubang, Kent Dexter Marzon",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "929293",
+"alt_id": null,
+"name": "Matura, Dean Kleo Campana",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923244",
+"alt_id": "2024-0087-3",
+"name": "Matura, Numark Kenth Palmero",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "929393",
+"alt_id": null,
+"name": "Mediodia, Ralph Gian Carl Rivera",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920063",
+"alt_id": null,
+"name": "Metilla, Chelex Jaum",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "886873",
+"alt_id": null,
+"name": "Miro, Jan Ella Dricci Barcibal",
+"course": "BLIS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "927027",
+"alt_id": null,
+"name": "Mohammad, Aziz Rulona",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930834",
+"alt_id": null,
+"name": "Molde, Chelsea Clyde Mae Villano",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930403",
+"alt_id": null,
+"name": "Montellano, Imman Bill Abrenilla",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923968",
+"alt_id": "2024-0105-8",
+"name": "Montos, Marquis Avrin Yap",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923704",
+"alt_id": "2024-0084-3",
+"name": "Morales, Mear Davion Pe\u00f1as",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "880483",
+"alt_id": "2010-3011-9",
+"name": "Navarez, Matt Manwell Sentillas",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "887403",
+"alt_id": null,
+"name": "Navidad, Gerry Algabre",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920421",
+"alt_id": null,
+"name": "Ngojo, Prince Joshua Narvasa",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "920344",
+"alt_id": null,
+"name": "Nieboer, Alessandra Althea Saturinas",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930868",
+"alt_id": null,
+"name": "Niere, Xavier James",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920089",
+"alt_id": null,
+"name": "O'Dowd, Vincent Thomas Piang",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920392",
+"alt_id": null,
+"name": "Olaes, Myla Jane Aslian",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930514",
+"alt_id": null,
+"name": "Oliverio, James Raphael Mirafuentes",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920443",
+"alt_id": "2023-0041-2",
+"name": "Ongkas, Christian Carl Da\u00f1o",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "930386",
+"alt_id": null,
+"name": "Ontoy, Avery Kent Atamosa",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "927023",
+"alt_id": null,
+"name": "Oplas, Paul Al Dywane Bayking",
+"course": "BLIS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920693",
+"alt_id": null,
+"name": "Oroc, John Prietz Lanoboy",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "922984",
+"alt_id": null,
+"name": "Oton, Jomare, Jr. Tampos",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923948",
+"alt_id": null,
+"name": "Oyakawa, Saori Colita",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "909211",
+"alt_id": "2021-1206-3",
+"name": "Oyog, Ej Escabarte",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "921724",
+"alt_id": null,
+"name": "Pacatan, Kyla Hyacinth Patano",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926433",
+"alt_id": null,
+"name": "Pacatang, Khent Marc Mellina",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930476",
+"alt_id": null,
+"name": "Pag-Alaman, Sun Euie Semilla",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929523",
+"alt_id": null,
+"name": "Palanca, Sophia Marie Mabala",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926669",
+"alt_id": null,
+"name": "Paracuelles, Yuri Gutang",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "918618",
+"alt_id": "2022-0070-7",
+"name": "Pardillo, Kenneth Stein Casiao",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "922951",
+"alt_id": null,
+"name": "Pastor, Daniel Jan",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930412",
+"alt_id": null,
+"name": "Pellerin, Jesu Emmanuel Gabato",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923603",
+"alt_id": "2024-0071-0",
+"name": "Porras, Shawn Michael Selim",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "920942",
+"alt_id": null,
+"name": "Presbitero, Dimple Moulic",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "924750",
+"alt_id": null,
+"name": "Quezon, Mariano III Mosquera",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "919560",
+"alt_id": "2022-0291-2",
+"name": "Rada, Junalyn Maningo",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "920054",
+"alt_id": "2023-0008-9",
+"name": "Ramos, Cary Faye De Los Reyes",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "920791",
+"alt_id": "2023-0118-9",
+"name": "Ramos, Jeric Lloyd Mariket",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "929431",
+"alt_id": null,
+"name": "Rellin, Lohan Evan Henleigh Alisoso",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922811",
+"alt_id": null,
+"name": "Retuya, Emmanuel Homoc",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "925042",
+"alt_id": null,
+"name": "Reusora, Harry Austria",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "930603",
+"alt_id": null,
+"name": "Reyes, Sophia Julliana Monterola",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929498",
+"alt_id": null,
+"name": "Rivera, Lovely Arrienne Agero",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "927326",
+"alt_id": null,
+"name": "Robles, Daniel Joshua",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930478",
+"alt_id": null,
+"name": "Rocamora, Keemark Torres",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929669",
+"alt_id": null,
+"name": "Rodica, Aj Dawn Marie Cabana",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930477",
+"alt_id": null,
+"name": "Rosalita, Rud Zember Sayson",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922786",
+"alt_id": null,
+"name": "Sabio, Romeo Ii Lingcon",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "920423",
+"alt_id": null,
+"name": "Sabus, Lourence Cabusao",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930479",
+"alt_id": null,
+"name": "Saligan, Jayeson Lafuente",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923667",
+"alt_id": null,
+"name": "Salinda, Roshane Mae Baon",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "909037",
+"alt_id": null,
+"name": "Saludo, Gielou Charls Lumungsod",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "920398",
+"alt_id": "2023-0109-1",
+"name": "Samson, Marriane Angel Regidor",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "917235",
+"alt_id": null,
+"name": "Sanchez, Franz Nero Buca",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "923703",
+"alt_id": null,
+"name": "Santos, Ern Laurence Amandoron",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "920588",
+"alt_id": "2023-0175-4",
+"name": "Sapinoso, Michael Angelo Hingpit",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "929258",
+"alt_id": null,
+"name": "Sapple, Shivam",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "929984",
+"alt_id": null,
+"name": "Sara\u00f1ana, Lloyd Madelo",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922929",
+"alt_id": null,
+"name": "Sarno, Dwyane John Emerson Hugo",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "918502",
+"alt_id": "2022-0252-9",
+"name": "Saromines, Cyril Rean Calledo",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "930448",
+"alt_id": null,
+"name": "Saturinas, Prince Ej Frasco",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926156",
+"alt_id": null,
+"name": "Sayon, Jessa Mae Amad",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "916697",
+"alt_id": "2022-0002-5",
+"name": "Sere\u00f1o, Noly, Jr. Yata",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "920444",
+"alt_id": "2023-0041-3",
+"name": "Se\u00f1oran, Earlstephen Palicte",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926973",
+"alt_id": null,
+"name": "Silva, Ashlee Van Nicole Sumampong",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "908703",
+"alt_id": null,
+"name": "Sipalay, Jan Macky",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "908413",
+"alt_id": "2022-0213-2",
+"name": "Sode, Edson James Bernales",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "914103",
+"alt_id": null,
+"name": "Suaner, Arby Villarba",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "917252",
+"alt_id": null,
+"name": "Suralta, Christian Lowell Obelidhon",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "926162",
+"alt_id": null,
+"name": "Suralta, Zed Andrei Belino-Ac",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "880680",
+"alt_id": null,
+"name": "Surmion, Kyle Justine Olanda",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922652",
+"alt_id": null,
+"name": "Tabigue, Myke Jeff Suganob",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "923744",
+"alt_id": null,
+"name": "Tagose, Keneth Binaoro",
+"course": "BSCS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "926982",
+"alt_id": null,
+"name": "Takeda, Megumi Alconera",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920553",
+"alt_id": null,
+"name": "Takeda, Ryusuke Alconera",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "923524",
+"alt_id": null,
+"name": "Talang, Andrea",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "930371",
+"alt_id": null,
+"name": "Tan, Daphne Grace Villarta",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926508",
+"alt_id": null,
+"name": "Tan, William Glen Villarta",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "923525",
+"alt_id": null,
+"name": "Tanador, Ivan Justine Alimanio",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922402",
+"alt_id": null,
+"name": "Tandog, Cris Adrian Navarez",
+"course": "BSCS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "921021",
+"alt_id": null,
+"name": "Tecson, Christien Florenz Cordova",
+"course": "BSIT",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "917054",
+"alt_id": null,
+"name": "Tecson, Edrylle Jane Barbadillo",
+"course": "BLIS",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "924066",
+"alt_id": null,
+"name": "Tejedal, Arthur Jan Camanan",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "929391",
+"alt_id": null,
+"name": "Tesnado, Lawrence Tamboong",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "930459",
+"alt_id": null,
+"name": "Tobias, June Angelo Corpuz",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "919794",
+"alt_id": null,
+"name": "Togonon, Raizza Mae Nabua",
+"course": "BSCS",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "882552",
+"alt_id": null,
+"name": "Tompong, Danzel Ivan Paquibot",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "929752",
+"alt_id": null,
+"name": "Torre, Frankie Lawrence Mantilla",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926698",
+"alt_id": null,
+"name": "Torrechante, Tejay Villota",
+"course": "BSIT",
+"year": 2,
+"section": ""
+},
+{
+"student_no": "920821",
+"alt_id": null,
+"name": "Torrepalma, Michael Lloyd Hernan",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "920674",
+"alt_id": null,
+"name": "Ubas, Arnold Jr Sandico",
+"course": "BSCS",
+"year": 4,
+"section": ""
+},
+{
+"student_no": "923600",
+"alt_id": null,
+"name": "Ulan Ulan, Ahron Cary Dy",
+"course": "BLIS",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "926573",
+"alt_id": null,
+"name": "Ventura, Yvhan Tejero",
+"course": "BMMA",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "924112",
+"alt_id": "2024-0128-8",
+"name": "Villasencio, Christian Lawrenze",
+"course": "BSIT",
+"year": 3,
+"section": ""
+},
+{
+"student_no": "923814",
+"alt_id": null,
+"name": "Villota, Frederick John Casipong",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "922965",
+"alt_id": null,
+"name": "Yangyang, Novienne Dayon",
+"course": "BSIT",
+"year": 1,
+"section": ""
+},
+{
+"student_no": "926627",
+"alt_id": null,
+"name": "Olaguer, Nick Exel Van Albutra",
+"course": "BSCS",
+"year": 0,
+"section": ""
+},
+{
+"student_no": "930313",
+"alt_id": null,
+"name": "Balase, Joseph Treshia Somosot",
+"course": "BSIT",
+"year": 0,
+"section": ""
+},
+{
+"student_no": "922595",
+"alt_id": null,
+"name": "Valentin, Gerard Isyd Rhome Me\u00f1iza",
+"course": "BSIT",
+"year": 0,
+"section": ""
+},
+{
+"student_no": "930375",
+"alt_id": null,
+"name": "Agravio, Renalyn Digan",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "886772",
+"alt_id": null,
+"name": "Alberca, Carlze Baran",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "922849",
+"alt_id": null,
+"name": "Alipan, Ranier Oberez",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "882490",
+"alt_id": null,
+"name": "Alquiza, Gary Luis Serafin",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "930055",
+"alt_id": null,
+"name": "Amado, Darius Jayson Dreck Alejandro",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "927422",
+"alt_id": null,
+"name": "Amarille, Joylhann Libut",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "930431",
+"alt_id": null,
+"name": "Amomas, Justin Rey Espacio",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "920990",
+"alt_id": null,
+"name": "Ang, Angelo Perales",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "918328",
+"alt_id": null,
+"name": "Anticamara, Cindy Lyle Granada",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "927125",
+"alt_id": null,
+"name": "Anticamara, Marc Vincent Hubahib",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "926507",
+"alt_id": null,
+"name": "Ayop, Dennis John Ramos",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "930297",
+"alt_id": null,
+"name": "A\u00f1abesa, Khris Doreen Gadia",
+"course": "BLIS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "923980",
+"alt_id": null,
+"name": "Bacalso, Kyle Nu\u00f1ez",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "921002",
+"alt_id": null,
+"name": "Balatero, Rhea Grace Patoc",
+"course": "BSCS",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "919767",
+"alt_id": null,
+"name": "Balcoba, Joshua Rafael",
+"course": "BMMA",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "920906",
+"alt_id": null,
+"name": "Baluran, Kizzi Amor",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "926725",
+"alt_id": null,
+"name": "Baniola, Junel Bacaling",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "908406",
+"alt_id": null,
+"name": "Barraba, Z Andrie Ventura",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "923074",
+"alt_id": null,
+"name": "Basco, Earl Jannuelle Saligue",
+"course": "BSCS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "926759",
+"alt_id": null,
+"name": "Batcheril, Adonie Jay Maloon",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "923278",
+"alt_id": null,
+"name": "Bautista, Hycinth Lie Alcosero",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "921244",
+"alt_id": null,
+"name": "Besa\u00f1ez, Andrei",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "926697",
+"alt_id": null,
+"name": "Biagioni, Michele Labaonon",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "923841",
+"alt_id": null,
+"name": "Brandares, Indrick John Canoy",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "922517",
+"alt_id": null,
+"name": "Bra\u00f1a, John Daryl Corpuz",
+"course": "BSCS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "929805",
+"alt_id": null,
+"name": "Cabellida, Mheanhy Catandijan",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "921475",
+"alt_id": null,
+"name": "Cabiles, Geraldene Lindo",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "922775",
+"alt_id": null,
+"name": "Cabillo, Jhon Rey Repaso",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "924476",
+"alt_id": null,
+"name": "Cagutom, Denes Ann Manuawan",
+"course": "BLIS",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "914633",
+"alt_id": null,
+"name": "Calzado, Gabrilla Marie Cabardo",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "916944",
+"alt_id": null,
+"name": "Ca\u00f1ete, Laiza Sumampong",
+"course": "BLIS",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "930293",
+"alt_id": null,
+"name": "Cobol, Charlene Mary Intig",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "917444",
+"alt_id": "2022-0078-5",
+"name": "Cometa, Gino Rabanes",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "910551",
+"alt_id": null,
+"name": "Cortez, Mikko Jhames",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "921906",
+"alt_id": null,
+"name": "Dacer, John Paul .",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "910725",
+"alt_id": null,
+"name": "Dagadas, Ahmad Jamad",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "920978",
+"alt_id": null,
+"name": "Datulayta, Bianca Tongco",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "921094",
+"alt_id": null,
+"name": "Daug, Kyle Magwate",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "884857",
+"alt_id": null,
+"name": "De Asis, Vict Christine Bingan",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "926603",
+"alt_id": null,
+"name": "Degenion, Frenled Sept. Nu\u00f1es",
+"course": "BLIS",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "922532",
+"alt_id": null,
+"name": "Degenion, Kristel Jane Nu\u00f1es",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "930442",
+"alt_id": null,
+"name": "Dela Cruz, Rain Traya",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "887002",
+"alt_id": null,
+"name": "Dela Cruz, Verson Cardinas",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "910088",
+"alt_id": null,
+"name": "Dela Pe\u00f1a, Nathanyell Li\u00f1o",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "930446",
+"alt_id": null,
+"name": "Denila, Chairenz Rodriguez",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "910542",
+"alt_id": "2024-0165-6",
+"name": "Dian, Justine Rey Baylosis",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "920774",
+"alt_id": null,
+"name": "Diva, Marlan Librado",
+"course": "BSCS",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "926879",
+"alt_id": null,
+"name": "Duguil, Philip Viscayno",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "921321",
+"alt_id": null,
+"name": "Dumagan, Julios Gabriel Relatado",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "927400",
+"alt_id": null,
+"name": "Dumagan, Kenth Angelou Aum",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "922809",
+"alt_id": null,
+"name": "Dumagan, Ranz Cleo Rebucas",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "919582",
+"alt_id": null,
+"name": "Emeterio, Kyla Jean Solamillo",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "924071",
+"alt_id": "2024-0120-0",
+"name": "Empas, Michael John Degamo",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "930599",
+"alt_id": null,
+"name": "Engbino, Cris Laurence Abanilla",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "926438",
+"alt_id": null,
+"name": "Fernandez, Philip Jed Carpentero",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "927324",
+"alt_id": null,
+"name": "Ferolino, Johnwed Abalayan",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "929538",
+"alt_id": null,
+"name": "Ferrer, Christian Sesmondo",
+"course": "BLIS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "921917",
+"alt_id": null,
+"name": "Formentera, Ralph Badudao",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "926265",
+"alt_id": null,
+"name": "Gadia, Karima Sarcol",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "922308",
+"alt_id": null,
+"name": "Geltura, Gian Danielle Jose",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "923943",
+"alt_id": null,
+"name": "Germones, Raven Quilla",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "930515",
+"alt_id": null,
+"name": "Gilayo, Christian Vence Apura",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "920006",
+"alt_id": null,
+"name": "Gique, Kaycee Miclat",
+"course": "BLIS",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "924586",
+"alt_id": null,
+"name": "Gonato, Geovanne Jr. Empoc",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "929689",
+"alt_id": null,
+"name": "Gonzales, Ni\u00f1o James Bravo",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "908669",
+"alt_id": null,
+"name": "Guevarra, Jan Miko Arnado",
+"course": "BSCS",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "920946",
+"alt_id": null,
+"name": "Habaradas, Erika Leah Cavan",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "910796",
+"alt_id": null,
+"name": "Haman Jr., Eliezer Mandia",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "910620",
+"alt_id": null,
+"name": "Hoyohoy, Reaster Khylle Singson",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "930350",
+"alt_id": null,
+"name": "Intalan, Joana Marie San Diego",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "910887",
+"alt_id": null,
+"name": "Javier, Rey Deniel Canino",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "905237",
+"alt_id": null,
+"name": "Jorolan, Kenneth Lance Tapuroc",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "921262",
+"alt_id": null,
+"name": "Jorquia, April Rose",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "930200",
+"alt_id": null,
+"name": "Jungco, John Keyron Bernabe",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "917371",
+"alt_id": null,
+"name": "Lacre, King Gerald Retardo",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "930427",
+"alt_id": null,
+"name": "Laquinario, Shana Rosh Padingil",
+"course": "BLIS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "920498",
+"alt_id": null,
+"name": "Limsan, John Mark Pepito",
+"course": "BSCS",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "924579",
+"alt_id": null,
+"name": "Llego, Joseph Ellaga",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "927159",
+"alt_id": null,
+"name": "Llena, Mike Raffy Saligan",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "929808",
+"alt_id": null,
+"name": "Macias, Evan Jade Orme",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "924140",
+"alt_id": null,
+"name": "Mancao, Jolina",
+"course": "BLIS",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "926585",
+"alt_id": null,
+"name": "Mancera, John Patrick Salinas",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "923952",
+"alt_id": null,
+"name": "Manlansing, Airon Villarico",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "926718",
+"alt_id": null,
+"name": "Maquirang, Rhe Miguel Enfestan",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "924647",
+"alt_id": null,
+"name": "Maravillas, Keith Amiel Shane Catalu\u00f1a",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "921145",
+"alt_id": null,
+"name": "Maravillas, Shiela Mae Gilvero",
+"course": "BLIS",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "882376",
+"alt_id": null,
+"name": "Marcellones, Adrian Dagdag",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "920988",
+"alt_id": null,
+"name": "Marfe, Jefferson Turing",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "922693",
+"alt_id": null,
+"name": "Masculino, Edlyn Gempesaw",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "910541",
+"alt_id": "2024-0087-3",
+"name": "Maturan, Kien Gerald Sosme\u00f1a",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "926709",
+"alt_id": null,
+"name": "Mayormita, Catherine Mae Say-A",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "919690",
+"alt_id": null,
+"name": "Mediano, Shaena Izzra Cuevas",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "922572",
+"alt_id": null,
+"name": "Menancillo, Ivy",
+"course": "BSCS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "923187",
+"alt_id": null,
+"name": "Mequila, Karl Andraeh Calumba",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "918687",
+"alt_id": null,
+"name": "Monteza, Russel, Jr. Matas",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "930216",
+"alt_id": null,
+"name": "Nacua, John Michael Dumdum",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "923766",
+"alt_id": null,
+"name": "Nasol, Earlyn Sigara",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "930424",
+"alt_id": null,
+"name": "Nemis, Cazle Chloe Manait",
+"course": "BLIS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "922802",
+"alt_id": null,
+"name": "Neri, Vincent Ballen",
+"course": "BSCS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "926389",
+"alt_id": null,
+"name": "Niez, Hannahlhi Consulta",
+"course": "BLIS",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "908224",
+"alt_id": null,
+"name": "Olaco, Joachim Bustamante",
+"course": "BSCS",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "929809",
+"alt_id": null,
+"name": "Orme, George Darel Espinosa",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "930600",
+"alt_id": null,
+"name": "Otic, Lenny Mae Servillo",
+"course": "BLIS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "916943",
+"alt_id": null,
+"name": "Pacifico, Datchelou Abaquita",
+"course": "BLIS",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "920828",
+"alt_id": null,
+"name": "Parba, Levi Paez",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "921910",
+"alt_id": null,
+"name": "Patlingrao, Rafael Sosme\u00f1a",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "922987",
+"alt_id": null,
+"name": "Permejo, Noemi Amor",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "930469",
+"alt_id": null,
+"name": "Petallar, Zharynheart Divine Alisoso",
+"course": "BSCS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "926944",
+"alt_id": null,
+"name": "Pi\u00f1ero, Mark Dave Egos",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "921095",
+"alt_id": "2023-0152-9",
+"name": "Polacas, Alfie Lynard Solamo",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "923838",
+"alt_id": null,
+"name": "Quijano, Denzel Tatoy",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "926643",
+"alt_id": null,
+"name": "Quizo, Jaypee Bautista",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "926712",
+"alt_id": null,
+"name": "Rabi, Jhanweed Paclibar",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "922311",
+"alt_id": null,
+"name": "Ramos, Jefran Dungog",
+"course": "BSCS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "927140",
+"alt_id": null,
+"name": "Rellin, Raphy  Mar Nahial",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "919708",
+"alt_id": null,
+"name": "Reolo, Honey Jean Amante",
+"course": "BLIS",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "930485",
+"alt_id": null,
+"name": "Reponte, Carl Vincent Fuentes",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "930560",
+"alt_id": null,
+"name": "Rico, Jurey Vince Alfeche",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "921035",
+"alt_id": null,
+"name": "Rivera, Ashlee Nicole Ticong",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "886850",
+"alt_id": null,
+"name": "Roble, Jeff Brian Dalagan",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "924729",
+"alt_id": null,
+"name": "Roble, Mae Kyla Alberca",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "930602",
+"alt_id": null,
+"name": "Roble, Zacharry Leif",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "927433",
+"alt_id": null,
+"name": "Rosalita, Ryan Franz Polacas",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "929558",
+"alt_id": null,
+"name": "Ruizol, John Carlo Aligno",
+"course": "BSCS",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "921511",
+"alt_id": null,
+"name": "Sabio, Sanny Esponga",
+"course": "BSIT",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "926756",
+"alt_id": null,
+"name": "Salaysay, Rejean Paunon",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "929688",
+"alt_id": null,
+"name": "Sarona, Jay Jordan Hayag",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "929304",
+"alt_id": null,
+"name": "Silva, Eduard Callinero",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "920868",
+"alt_id": null,
+"name": "Sumabat, Johnlei Martorillas",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "922925",
+"alt_id": null,
+"name": "Sumera, Jan Ace Dumalag",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "909951",
+"alt_id": null,
+"name": "Surig, Jan Carlo Golimlim",
+"course": "BSCS",
+"year": 4,
+"section": "CSP"
+},
+{
+"student_no": "924105",
+"alt_id": null,
+"name": "Taba\u00f1ag, Verlyn Embac",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "923493",
+"alt_id": null,
+"name": "Taguba, Andy Carl Alcasid",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "923768",
+"alt_id": null,
+"name": "Tampus, Nikko Nisnissan",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "923574",
+"alt_id": null,
+"name": "Tigtig, Johnmark Paul Anghag",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "930922",
+"alt_id": null,
+"name": "Torrenueva, Jhairyle Jave Guillen",
+"course": "BMMA",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "923637",
+"alt_id": null,
+"name": "Ulan-Ulan, Erich Alimento",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "910957",
+"alt_id": null,
+"name": "Urot, Kent Robert Sajolga",
+"course": "BSIT",
+"year": 3,
+"section": "CSP"
+},
+{
+"student_no": "922624",
+"alt_id": null,
+"name": "Villalona, Laurence Jade Jor",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "929387",
+"alt_id": null,
+"name": "Villanueva, Aliza Omboy",
+"course": "BMMA",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "926951",
+"alt_id": null,
+"name": "Villanueva, Troy Etil",
+"course": "BSIT",
+"year": 2,
+"section": "CSP"
+},
+{
+"student_no": "922407",
+"alt_id": null,
+"name": "Vitudio, Carl Erick Briones",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "922404",
+"alt_id": null,
+"name": "Yba\u00f1ez, Earl Zairen Luna",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+},
+{
+"student_no": "930429",
+"alt_id": null,
+"name": "Yongot, Cyril",
+"course": "BSIT",
+"year": 1,
+"section": "CSP"
+}
+],
+"sessions": [
+{
+"key": "2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"name": "General Assembly (CCIS, ACSS, YIS)",
+"date": "2026-09-26"
+},
+{
+"key": "2026-09-11|Mangrove Planting & Coastal Clean-up",
+"name": "Mangrove Planting & Coastal Clean-up",
+"date": "2026-09-11"
+}
+],
+"attendance": [
+[
+"930113",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930611",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922976",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926489",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"912695",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930382",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923806",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930616",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926687",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920930",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"919724",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"921222",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880908",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"924007",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"917898",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"929777",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921490",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926180",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930144",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929291",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920104",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"884713",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926301",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923068",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920668",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"921719",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930674",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"909845",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930474",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923712",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922937",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"921926",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926570",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923678",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920854",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930601",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920557",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923459",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923174",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929306",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930251",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"924459",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923779",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923780",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922727",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929284",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921648",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923016",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"910857",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924608",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"921634",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"919932",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920258",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920842",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"916705",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920746",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880366",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"880904",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920476",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930437",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920802",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"925018",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930043",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"929844",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922911",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922694",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880590",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923434",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923791",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930384",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924274",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"927118",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"886910",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920178",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"917620",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926640",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920537",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930098",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880256",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929566",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"908990",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"917825",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929342",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924607",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"923189",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"908665",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"887765",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"883835",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920752",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930133",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923242",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"881096",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"929839",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"886969",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926692",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920576",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924359",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"923882",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923214",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930496",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"921684",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"886794",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"909936",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"927390",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929303",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920096",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"917897",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"929270",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920027",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930447",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926513",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926327",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924600",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"922759",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"908222",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"909201",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926668",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"927018",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930853",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922909",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920500",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"921752",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929429",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"883876",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926601",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924407",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921561",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923185",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926786",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"909202",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930359",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"906778",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920645",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920660",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923028",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929421",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"883292",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"884105",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"923565",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"927347",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"929963",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930204",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930851",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930351",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"930592",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"912380",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920637",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"922907",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930452",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922670",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930668",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920584",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"924009",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"883857",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"908428",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920013",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922174",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926187",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929296",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"916742",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929422",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929910",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"908991",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"929533",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923541",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923451",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"910157",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880732",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930227",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926351",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924646",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930597",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923991",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926661",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"919717",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929967",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"886845",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"909184",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880688",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"880135",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920937",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"909593",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929293",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"929393",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920063",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"886873",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"927027",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930834",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930403",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923968",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923704",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880483",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"887403",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920421",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920344",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930868",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920089",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920392",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930514",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920443",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930386",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"927023",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920693",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"922984",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923948",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"909211",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921724",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926433",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930476",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"929523",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926669",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"918618",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922951",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930412",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923603",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920942",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924750",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"919560",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920054",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920791",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929431",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922811",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"925042",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930603",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929498",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"927326",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"930478",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929669",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930477",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922786",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920423",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930479",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"excused"
+],
+[
+"923667",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"909037",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920398",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"917235",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923703",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"920588",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929258",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929984",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922929",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"918502",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930448",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926156",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"916697",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920444",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926973",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"908703",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"908413",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"914103",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"917252",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926162",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"880680",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922652",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923744",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"926982",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920553",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923524",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930371",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926508",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923525",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922402",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921021",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"917054",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924066",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929391",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"930459",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"919794",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"882552",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"929752",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926698",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920821",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920674",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923600",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926573",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"924112",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923814",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922965",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"926627",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"930313",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922595",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"910542",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924071",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"924586",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"910541",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921095",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"910887",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"910887",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"886772",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"886772",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920937",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"923838",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"923838",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921002",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"921002",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923603",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"923524",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"920498",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"920498",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"910957",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"910957",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"923980",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"923980",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921244",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"921244",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"908406",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"908406",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"923952",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"923952",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"921511",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"921511",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"883876",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"909936",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"923968",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"922624",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"922624",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"917444",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"917444",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"920392",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"923841",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"923841",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+],
+[
+"922694",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"908665",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"921262",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"921262",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"912380",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"918328",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"present"
+],
+[
+"918328",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"absent"
+],
+[
+"917252",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"926265",
+"2026-09-11|Mangrove Planting & Coastal Clean-up",
+"absent"
+],
+[
+"926265",
+"2026-09-26|General Assembly (CCIS, ACSS, YIS)",
+"present"
+]
+]
+}
